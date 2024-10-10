@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tu3n.4nh.works@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tu3n4nh&show_icons=true&locale=en" alt="tu3n4nh" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tu3n4nh&" alt="tu3n4nh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tu3n4nh&show_icons=true&locale=en" alt="tu3n4nh" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tu3n4nh&show_icons=true&locale=en&layout=compact" alt="tu3n4nh" /></p>
 
